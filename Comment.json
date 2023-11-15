@@ -1,0 +1,80 @@
+{
+    "comments": [
+      {
+        "commentId": "103",
+        "userId": "user1",
+        "text": "Toto je hlavní komentář.",
+        "replies": [
+          {
+            "replyId": "201",
+            "userId": "user2",
+            "text": "Toto je odpověď na komentář 103."
+          },
+          {
+            "replyId": "202",
+            "userId": "user3",
+            "text": "Další odpověď na komentář 103."
+          }
+        ]
+      },
+      {
+        "commentId": "104",
+        "userId": "user4",
+        "text": "Další hlavní komentář.",
+        "replies": [
+          {
+            "replyId": "203",
+            "userId": "user5",
+            "text": "Odpověď na komentář 104."
+          }
+        ]
+      },
+      {
+        "commentId": "105",
+        "userId": "user6",
+        "text": "Ještě jeden hlavní komentář.",
+        "replies": [
+          {
+            "replyId": "204",
+            "userId": "user7",
+            "text": "Odpověď na komentář 105."
+          },
+          {
+            "replyId": "205",
+            "userId": "user8",
+            "text": "Další odpověď na komentář 105."
+          }
+        ]
+      },
+      {
+        "commentId": "106",
+        "userId": "user9",
+        "text": "Ještě jeden hlavní komentář.",
+        "replies": [
+          {
+            "replyId": "206",
+            "userId": "user10",
+            "text": "Odpověď na komentář 106."
+          },
+          {
+            "replyId": "207",
+            "userId": "user11",
+            "text": "Další odpověď na komentář 106."
+          }
+        ]
+      },
+      {
+        "commentId": "108",
+        "userId": "user12",
+        "text": "Poslední hlavní komentář.",
+        "replies": [
+          {
+            "replyId": "208",
+            "userId": "user13",
+            "text": "Odpověď na komentář 108."
+          }
+        ]
+      }
+    ]
+  }
+  

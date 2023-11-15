@@ -1,0 +1,35 @@
+{
+    "ratings": [
+      {
+        "ratingId": "301",
+        "userId": "uživatel1",
+        "postId": "28d-420dd1-6",
+        "isLiked": true
+      },
+      {
+        "ratingId": "302",
+        "userId": "uživatel2",
+        "postId": "28d-420dd1-7",
+        "isLiked": false
+      },
+      {
+        "ratingId": "303",
+        "userId": "uživatel3",
+        "postId": "28d-420dd1-8",
+        "isLiked": true
+      },
+      {
+        "ratingId": "304",
+        "userId": "uživatel4",
+        "postId": "28d-420dd1-9",
+        "isLiked": false
+      },
+      {
+        "ratingId": "305",
+        "userId": "uživatel5",
+        "postId": "28d-420dd1-10",
+        "isLiked": true
+      }
+    ]
+  }
+  
