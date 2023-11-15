@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Audi",
+    "id": "28-4322-1",
+    "listOfPosts": ["28-420dd1-4", "28d-420dd1-6"]
+  },
+  {
+    "name": "Škoda",
+    "id": "28-4322-133",
+    "listOfPosts": ["28-42ddd1-4", "28d-420dd1-6"]
+  },
+  {
+    "name": "BMW",
+    "id": "28-4322-2",
+    "listOfPosts": ["28d-420dd1-7"]
+  },
+  {
+    "name": "Ford",
+    "id": "28-4322-3",
+    "listOfPosts": ["28d-420dd1-8"]
+  },
+  {
+    "name": "Mercedes",
+    "id": "28-4322-4",
+    "listOfPosts": ["28d-420dd1-9"]
+  }
+]

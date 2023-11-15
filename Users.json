@@ -1,6 +1,38 @@
 [
-    { "id": 1, "username": "CarEnthusiast123", "name": "Jan Novák", "email": "jan.novak@email.com" },
-    { "id": 2, "username": "AutoFanatic", "name": "Petra Vlčková", "email": "petra.vlckova@email.com" },
-    { "id": 3, "username": "GearHead456", "name": "Tomáš Horák", "email": "tomas.horak@email.com" }
+    {
+      "uuIdentity": "28-4201-1",
+      "name": "Jakub",
+      "surname": "Stádník",
+      "role": "admin",
+      "posts": ["28-420dd1-4", "28d-420dd1-4"]
+    },
+    {
+      "uuIdentity": "123-69-23",
+      "name": "Boris",
+      "surname": "Boček",
+      "role": "admin",
+      "posts": []
+    },
+    {
+      "uuIdentity": "123-69-2f3",
+      "name": "Pepa",
+      "surname": "Frantíšek",
+      "role": "user",
+      "posts": []
+    },
+    {
+      "uuIdentity": "789-12-34",
+      "name": "Eva",
+      "surname": "Nováková",
+      "role": "user",
+      "posts": ["28-42ddd1-4"]
+    },
+    {
+      "uuIdentity": "567-89-01",
+      "name": "Marek",
+      "surname": "Svoboda",
+      "role": "user",
+      "posts": ["28-4322-1"]
+    }
   ]
   

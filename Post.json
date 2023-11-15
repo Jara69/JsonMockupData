@@ -1,0 +1,87 @@
+[
+  {
+    "postId": "28d-420dd1-6",
+    "uuIdentity": "28-4201-2",
+    "uuIdentityName": "Jakub Stádník",
+    "creationDate": "2023-11-02",
+    "title": "Klasická auta",
+    "description": "Cesta historií klasických aut a jejich nadčasovou krásou.",
+    "image": "image2binaryid",
+    "likeCount": 0,
+    "visibility": true,
+    "categoryIdList": ["28-4322-1"],
+    "comments": [
+      { "commentId": "103" },
+      { "commentId": "104" }
+    ],
+    "userLikes": []
+  },
+  {
+    "postId": "28d-420dd1-7",
+    "uuIdentity": "789-12-34",
+    "uuIdentityName": "Eva Nováková",
+    "creationDate": "2023-11-03",
+    "title": "Elektrická auta",
+    "description": "Pochopení světa elektrických aut a jejich vlivu na životní prostředí.",
+    "image": "image3binaryid",
+    "likeCount": 2,
+    "visibility": true,
+    "categoryIdList": ["28-4322-1"],
+    "comments": [
+      { "commentId": "105" },
+      { "commentId": "106" }
+    ],
+    "userLikes": ["28-4201-1", "123-69-23"]
+  },
+  {
+    "postId": "28d-420dd1-8",
+    "uuIdentity": "567-89-01",
+    "uuIdentityName": "Marek Svoboda",
+    "creationDate": "2023-11-04",
+    "title": "SUV pro rodiny",
+    "description": "Výběr nejlepšího SUV pro potřeby vaší rodiny.",
+    "image": "image4binaryid",
+    "likeCount": 5,
+    "visibility": true,
+    "categoryIdList": ["28-4322-133"],
+    "comments": [
+      { "commentId": "107" },
+      { "commentId": "108" }
+    ],
+    "userLikes": ["28-4201-1", "123-69-2f3"]
+  },
+  {
+    "postId": "28d-420dd1-9",
+    "uuIdentity": "123-69-2f3",
+    "uuIdentityName": "Pepa Frantíšek",
+    "creationDate": "2023-11-05",
+    "title": "Budoucnost autonomních vozidel",
+    "description": "Pochopení možností a výzev autonomních vozidel.",
+    "image": "image5binaryid",
+    "likeCount": 3,
+    "visibility": true,
+    "categoryIdList": ["28-4322-1"],
+    "comments": [
+      { "commentId": "109" },
+      { "commentId": "110" }
+    ],
+    "userLikes": ["28-4201-1", "789-12-34"]
+  },
+  {
+    "postId": "28d-420dd1-10",
+    "uuIdentity": "123-45-67",
+    "uuIdentityName": "Alice Johnson",
+    "creationDate": "2023-11-06",
+    "title": "Krása kabrioletů",
+    "description": "Ocenění designu a vzrušení z jízdy kabriolety.",
+    "image": "image6binaryid",
+    "likeCount": 1,
+    "visibility": true,
+    "categoryIdList": ["28-4322-1"],
+    "comments": [
+      { "commentId": "111" },
+      { "commentId": "112" }
+    ],
+    "userLikes": ["567-89-01"]
+  }
+]
